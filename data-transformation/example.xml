@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employee>
+        <name>John Doe</name>
+        <position>Software Engineer</position>
+        <contact>
+            <email>john.doe@example.com</email>
+            <phone>123-456-7890</phone>
+        </contact>
+    </employee>
+    <employee>
+        <name>Jane Smith</name>
+        <position>Project Manager</position>
+        <contact>
+            <email>jane.smith@example.com</email>
+            <phone>098-765-4321</phone>
+        </contact>
+    </employee>
+</company>
