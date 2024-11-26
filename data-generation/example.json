@@ -1,0 +1,28 @@
+{
+  "airplanes": [
+    {
+      "id": "A1",
+      "model": "Boeing 737",
+      "manufacturer": "Boeing",
+      "capacity": 180,
+      "range_km": 5600,
+      "airline": "Airline A"
+    },
+    {
+      "id": "A2",
+      "model": "Airbus A320",
+      "manufacturer": "Airbus",
+      "capacity": 150,
+      "range_km": 6100,
+      "airline": "Airline B"
+    },
+    {
+      "id": "A3",
+      "model": "Boeing 777",
+      "manufacturer": "Boeing",
+      "capacity": 396,
+      "range_km": 13600,
+      "airline": "Airline C"
+    }
+  ]
+}
